@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1678587455 source:d:\zigzag\sheet1_c\conditions\simple calculator\simple calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
