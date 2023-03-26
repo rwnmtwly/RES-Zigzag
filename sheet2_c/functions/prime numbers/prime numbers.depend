@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1679794890 source:d:\zigzag\sheet2_c\functions\prime numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+
