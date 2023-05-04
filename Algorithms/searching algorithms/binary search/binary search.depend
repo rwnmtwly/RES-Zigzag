@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683217176 source:d:\zigzag\algorithms\searching algorithms\binary search\main.c
+	<stdio.h>
+	<stdlib.h>
+
